@@ -22,6 +22,10 @@ MyThirdTest
   Log    I am in third test   
   set Tags   regression1
   
+MyFourthTest
+  Log    I am in third test   
+  set Tags   regression1  
+  
    #xpath=//*[@id="tsf"]/div[2]/div/div[1]/div/div[1]/input
  FirstSeleniumTest    
     Open Browser    https://opensource-demo.orangehrmlive.com/  chrome
